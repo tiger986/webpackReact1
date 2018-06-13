@@ -1,4 +1,4 @@
-## The basic use of webpack and react
+## The basic use of webpack and react(Route on demand load)
 #### webpack.config.js
 ```javascript
 var webpack = require('webpack');
